@@ -1,6 +1,6 @@
 {
   "name": "commajs-mentions",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Commajs - The WYSIWYG framework -  mentions plugin",
   "main": "dist/commajs-mentions.min.js",
   "repository": {
